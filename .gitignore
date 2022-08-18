@@ -1,2 +1,4 @@
 paper_data
+paper_data/*
 .ipynb_checkpoints
+.ipynb_checkpoints/*
